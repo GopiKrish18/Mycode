@@ -8,8 +8,8 @@ public class Armstrong_Number {
 			int b = a;
 			int c, sum = 0;
 			while(a>0) {
-				c = a%10;//3
-				a = a/10;//15
+				c = a%10;
+				a = a/10;
 				sum = sum + c*c*c;
 			}
 			if(sum==b) {
