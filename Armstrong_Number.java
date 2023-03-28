@@ -18,5 +18,5 @@ public class Armstrong_Number {
 			else {
 				System.out.println("Its not a ArmStrong Number");
 			}
-		}
+		}//changes made in train-branch won't affect the main branch code data.
 }
