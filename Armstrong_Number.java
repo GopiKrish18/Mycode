@@ -1,7 +1,7 @@
 package com.prac;
 
 public class Armstrong_Number {
-	// a cube of its number is called Armstrong number 153
+	// a cube of its number is called Armstrong number eg.153
 	
 		public static void main(String[] args) {
 			int a = 370; // 3*3*3 + 7*7*7 + 0*0*0 = 370
